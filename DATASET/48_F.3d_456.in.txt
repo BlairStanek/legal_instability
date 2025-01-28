@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+Casey initially sought Social Security disability benefits after encountering difficulties with employment. Casey’s application was originally denied, prompting Casey to reapply and pursue multiple levels of review. This process involved several hearings before administrative bodies and eventual judicial consideration. Over time, an administrative decision held that Casey was disabled.
+
+ Once disability benefits were awarded, a dispute arose regarding the proper amount of attorney’s fees. Casey had a written agreement with Casey’s counsel setting a contingent fee of up to 25% of any past-due benefits. However, in the litigation that followed, the district court used a lodestar calculation to set Casey’s counsel’s compensation, an approach that started with a set hourly rate multiplied by the hours worked.
+
+ In the course of briefing and argument, conflicting views emerged. On one side, there was emphasis on honoring contractual freedom concerning contingent fees, given the risk attorneys undertake in Social Security cases. On the other side, there were concerns over protecting a claimant’s limited resources, particularly in the Social Security context, where awards often provide crucial support for claimants and their families. Both perspectives examined the interplay among the statutory text of 42 U.S.C. § 406(b)(1), the adequacy of representation, and the fairness of awarding fees from the claimant’s recovery.
+
+ One set of arguments for Casey focuses on using the contingent fee arrangement as a significant measure of reasonableness. These arguments highlight that 42 U.S.C. § 406(b)(1) allows the court to award fees up to 25% of the past-due benefits and note that respecting freely negotiated agreements can incentivize qualified counsel to represent Social Security claimants, who might otherwise be unable to secure high-quality legal help. This perspective relies on precedent emphasizing that contingency agreements, while not automatically binding on a court, should still be given substantial weight to reflect the risk of nonpayment. Supporters of Casey also assert that compensation under a contingency theory aligns with broader principles of encouraging legal representation in complex disabled-benefits cases.
+
+ Another set of arguments, favoring the approach used by the district court, stresses that a lodestar analysis fosters uniformity and prevents disproportionately high fees from being taken out of already modest disability awards. Proponents of this view maintain that 42 U.S.C. § 406(b)(1) underscores the need for fees to be “reasonable,” a standard they believe is best served by controlling costs through careful scrutiny of hourly rates and hours expended. They point to past court rulings emphasizing that fees in Social Security cases must not place excessive burdens on claimants’ limited resources and that a lodestar analysis permits courts to account for various factors—such as the difficulty of the case, the skill required, and the contingent nature of the representation—without automatically prioritizing the agreed-upon percentage.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: Casey or the Commissioner
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: Casey or the Commissioner.  Answer with ONLY the string Casey or the string the Commissioner.

@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+On a spring evening, law enforcement officers patrolled Highway 125 in Lanford County, Michigan, when they observed an older vehicle traveling slightly above the posted speed limit. The vehicle also lacked a front bumper and had a broken headlight. The officers decided to make a traffic stop without immediately issuing any citation at that time. Lake Montgomery was one of the passengers in this automobile.
+
+ Upon stopping the car, the officers asked the driver for a valid license. The driver could not produce one and admitted his license had been suspended. The officers then arrested the driver. Because no one else in the car had a valid license or any identification, the officers followed department policy by impounding the vehicle. During an inventory search, the officers discovered narcotics, ammunition, and other items inside the trunk area.
+
+ Some of the evidence indicated that the principal reason for the stop might have gone beyond the minor traffic violations. One officer later testified that he often associated older cars with young occupants of a certain demographic with prior drug enforcement stops. There was discussion about whether such an approach infringed upon constitutional protections, given that the search produced significant evidence and led to legal proceedings against Lake Montgomery, who was the registered owner of the car.
+
+ In support of its position, the first party emphasizes that the officers had a valid basis to stop the vehicle, grounded in probable cause from the speeding and equipment violations. Under longstanding Fourth Amendment principles, the government argues that any observed traffic infraction justifies a stop, regardless of any additional subjective motivation. The first party points to United States v. Ferguson and related precedents, asserting that once the officers legitimately stopped the vehicle and impounded it under established protocols, the subsequent inventory search was lawful. From this perspective, the discovered contraband was admissible because the officers acted under recognized exceptions that permit certain vehicle searches after a lawful impoundment.
+
+ The second party insists that the stop was constitutionally impermissible due to improper racial considerations. According to this view, the officer’s own testimony about visual profiling casts doubt on the legitimacy of the traffic stop. The second party contends that allowing an officer’s subjective bias to dominate the decision to pull over the vehicle contravenes the Fourth Amendment rule that any stop must be both lawful and free from arbitrary or discriminatory motives. Furthermore, the second party highlights that reliance on a minor equipment issue or minimal speeding to justify what was allegedly a targeted stop subverts core equal protection principles, rendering any subsequent evidence obtained from the search inadmissible.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: The United States or Lake Montgomery
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: The United States or Lake Montgomery.  Answer with ONLY the string The United States or the string Lake Montgomery.

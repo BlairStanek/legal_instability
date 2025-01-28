@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+According to the record, a branch of Summit National Bank in Manningville was robbed by an individual described as having dark hair and a mustache, and wearing a grey suit. A teller later selected Casey Morgan’s photograph from a group of photos. Before trial, Morgan appeared at a hearing with a full beard, prompting the district court to order him to shave prior to trial.
+
+ Morgan did not comply with the order, and at trial the teller could not positively identify him because of the beard. The court then convened proceedings to address Morgan’s refusal to shave. The court concluded that this refusal interfered with the trial and imposed a separate sentence for contempt, directing that this term run consecutively to any sentence for the robbery conviction. A jury found Morgan guilty of bank robbery under 18 U.S.C. § 2113(a).
+
+ During sentencing for the robbery, the court increased Morgan’s base offense level by two levels based on the conclusion that Morgan’s actions had amounted to an attempt to obstruct justice. Morgan argued that the court had already punished him through the contempt sentence for failing to comply with the directive to appear clean-shaven. The Government responded that growing a beard to hinder identification was distinct from disobeying a direct court order to shave, so both sanctions were permissible.
+
+ In support of Morgan’s position, it was argued that the identical conduct—appearing at trial with a beard for the purpose of hampering identification—should not be penalized twice. Morgan relied on provisions of the Sentencing Guidelines, including U.S.S.G. § 3C1.1 and related commentary, which require that separate offenses be grouped if the same underlying behavior triggers multiple penalties. Morgan also cited precedent indicating that punishing the same act in more than one way risks impermissible “double counting.” Morgan’s submissions asserted that, because the essence of the contempt involved the same appearance-based tactic as the alleged obstruction, cumulative punishments should be avoided.
+
+ In response, the Government emphasized that Morgan’s underlying conduct took more than one form and thus could support separate sanctions under the law. Specifically, the Government argued that the initial decision to alter appearance in an attempt to prevent in-court identification was an obstacle to law enforcement, while refusing to obey a clear court order to remove the beard was a second, distinct violation deserving its own penalty. The Government pointed to the same Guideline commentary, highlighting that separate offenses may be grouped only if they involve the exact same criminal act rather than two related but separate acts. Precedent was cited suggesting that a defendant may properly face multiple sanctions if each sanction is predicated on a separate element of misconduct.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: Casey Morgan or the Government
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: Casey Morgan or the Government.  Answer with ONLY the string Casey Morgan or the string the Government.

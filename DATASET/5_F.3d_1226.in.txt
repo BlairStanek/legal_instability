@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+Mark Crane was convicted of multiple murders in a state proceeding and received a death sentence. After initially filing a federal habeas petition, he informed the district court that he no longer wished to pursue further relief. John Price, serving as counsel, remained concerned about whether Mark Crane was competent to waive those appeals.
+
+ The district court conducted a competency hearing to determine whether Mark Crane was able to make a clear and informed choice about abandoning further litigation. The evidence presented included details regarding his background and mental health history. Ultimately, the district court found that Mark Crane was competent and allowed him to proceed with giving up his appeals. A stay of execution was put in place while this finding was reviewed.
+
+ John Price challenged the district court’s approach to deciding competency, particularly its determination that the burden rested on the attorney to prove incompetence. According to the arguments raised, there was significant evidence of Mark Crane’s past self-harm and other traumatic experiences, making the precise assignment of the burden of proof potentially outcome-altering. The parties disputed whether it was appropriate for the district court to place that burden on John Price, or whether the court itself was supposed to reach a finding based on an independent preponderance of the evidence.
+
+ In support of James Franklin’s position, it was argued that established precedent holds litigants must demonstrate a legitimate basis to question a convicted individual’s capacity when that individual clearly states a desire to waive further review. Citing relevant rules and case law, this view suggests that the court retains the discretion to determine competency and that no specific party shoulders the entire burden. According to this perspective, a person is presumed competent unless the evidence overwhelmingly proves otherwise. References to prior cases were used to emphasize that in situations where defendants decline post-conviction relief, it is essential to respect their autonomy if the court independently finds, by a preponderance of the evidence, that they are acting knowingly and voluntarily.
+
+ Mark Crane’s supporters contended that the district court’s reliance on the attorney to show incompetence required remanding the matter for reconsideration under the proper allocation of burden. They cited authority indicating that if an incorrect burden is used, any gaps in evidence could unfairly penalize a party who should not, under the correct framework, be tasked with producing specific proof. Citing cases involving fundamental due process principles, they asserted that a misapplied standard could affect whether the evidence ultimately establishes that a defendant truly understands the consequences of foregoing all appeals. They also pointed to Mark Crane’s alleged mental health struggles as critical factors that underscore the importance of applying the correct burden when assessing competence.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: James Franklin or Mark Crane
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: James Franklin or Mark Crane.  Answer with ONLY the string James Franklin or the string Mark Crane.

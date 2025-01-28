@@ -1,0 +1,27 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+Jordan Brown pleaded guilty to one count of dealing in firearms without a license under 18 U.S.C. §§ 922(a)(1)(A) and 924(a)(1)(D). He had initially been indicted on additional charges, including possessing an unregistered sawed-off rifle in violation of 26 U.S.C. §§ 5841, 5861(d), and 5871, as well as threatening a witness in violation of 18 U.S.C. § 1513. Under a plea agreement, the other counts were dismissed, and Jordan Brown’s final sentence was guided by federal sentencing guidelines. Central to the sentencing was the discovery of a sawed-off rifle and whether it should affect the base offense level.
+
+ In the lead-up to sentencing, authorities executed a search of the area where Jordan Brown allegedly conducted firearms transactions. They found multiple guns, including the sawed-off rifle beneath a counter in the same location where negotiations had reportedly occurred. Although the rifle was incomplete—lacking a bolt—tests later showed it could be made operational by adding the right part. According to Jordan Brown, the rifle was old, kept for parts, and never offered as part of a sale. The United States at first presented documents suggesting the rifle might not have been intended for sale but subsequently took a different view.
+
+ A probation officer recommended an enhanced base offense level, attributing the sawed-off rifle to Jordan Brown’s conduct. Jordan Brown challenged that recommendation, maintaining that the dismissed count of possessing the rifle should not figure into his sentencing for dealing firearms without a license. He stressed that no discussion of selling the sawed-off rifle occurred and its condition would not have supported an actual sale. By contrast, the United States maintained that Jordan Brown’s broader pattern of trafficking in firearms encompassed the presence of the rifle, whether or not it was actually sold.
+
+ Arguments for the United States:  
+• Under U.S.S.G. § 1B1.3, the United States highlights that sentencing courts may consider all acts that took place in the commission of the offense, or that formed part of the same course of conduct or common scheme.  
+• Citing the principle established in decisions such as United States v. Smith and United States v. Sailes, the United States notes that even behavior reflected in dismissed counts can be relevant if it is linked to the charged offense.  
+• The United States asserts that analogous to drug cases where additional quantities of drugs discovered in the same overall operation are counted, the same logic should apply to firearms. Because the sawed-off rifle was stored in the location used for transactions and was readily made operable, the government sees it as closely related to the dealing activity.  
+• The presence of a sawed-off weapon, the United States argues, elevates the seriousness and danger of the overall conduct. Relying on U.S.S.G. § 2K2.1 language about more serious kinds of weapons, the government contends that including it in the offense level gives a more accurate depiction of Jordan Brown’s illicit activities.  
+• The United States emphasizes that even if the rifle was not sold, its existence in the place where deals happened is enough to treat it as part of the same course of conduct, consistent with precedents recognizing a broad scope of relevant conduct in firearms offenses.
+
+ Arguments for Jordan Brown:  
+• Jordan Brown contends that the sawed-off rifle remained a separate matter since it was never involved in any firearm sale or subject to negotiations. Because his guilty plea addressed only the unlicensed sale of firearms, he argues that items not marketed for sale should be excluded from the guidelines calculation.  
+• Pointing to 26 U.S.C. § 5845(h), which speaks to unserviceable firearms, Jordan Brown emphasizes that the rifle, lacking a bolt, should not be categorized alongside negative conduct that increases a sentencing range.  
+• He maintains that mere possession is not necessarily part of the same conduct as illegal dealing in functional firearms. Jordan Brown insists that the guidelines require proof of a direct connection or common plan before additional items are used to enhance a sentence.  
+• Relying on interpretations of U.S.S.G. § 1B1.3, Jordan Brown argues that broadening the definition of relevant conduct to include a partially inoperable rifle overreaches when the statute at issue punishes dealing in firearms intended for commerce.  
+• Jordan Brown warns that allowing an unconnected, unsold, and incomplete firearm to inflate his sentencing range would improperly punish him for conduct different from what led to his guilty plea and undermine statutory limits on relevant conduct.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: The United States or Jordan Brown
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: The United States or Jordan Brown.  Answer with ONLY the string The United States or the string Jordan Brown.

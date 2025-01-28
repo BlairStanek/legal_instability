@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+On one evening, seventeen-year-old Mia Turner had been drinking at several gatherings and remembered little about the events that followed. A twenty-six-year-old acquaintance, Skylark White Pine, saw that Mia Turner was being harassed by individuals at the last gathering and stepped in to help her. As the two walked away, Jordan West Noble drove up in his car and offered assistance.
+
+ Both Mia Turner and Skylark White Pine entered Noble’s car. After some driving, White Pine became concerned because Noble did not take Turner directly home. White Pine exited the car, leaving Turner alone with Noble. Later, Noble attempted to tender a guilty plea, explaining that he could not recall the incident due to his own intoxication but believed the evidence pointed to his involvement.
+
+ During trial, the district court allowed Mia Turner to begin her testimony about the alleged assault, sexual abuse, and kidnapping. The next day, the United States requested that all spectators other than Turner’s immediate relatives and a treating psychologist leave the courtroom for the remainder of her testimony. Although Noble opposed this request, the district court granted it. Noble also argued that he should receive a reduced sentence for accepting some responsibility, though he disputed certain aspects of the allegations.
+
+ In support of the partial exclusion of spectators, the United States cites legal standards emphasizing the need to accommodate the emotional well-being of a vulnerable witness and the broader public interest in fair proceedings. It points to key authorities—such as Waller v. Georgia and other appellate precedents—to suggest that a limited closure may be permissible when specific circumstances indicate a need to protect a witness, especially when the scope of the closure is narrowly tailored. The United States also refers to legal guidelines on sentencing to show that an acknowledgment of one portion of the conduct, coupled with denial of another, affects eligibility for sentence reductions under provisions like USSG § 3E1.1.
+
+ Noble contends that removing spectators, particularly members of his own family, infringes the Sixth Amendment right to a public trial and that no clear findings justified excluding the public. Relying on cases interpreting Waller v. Georgia, Noble insists that any closure must rest on detailed, on-the-record determinations that an overriding interest is at stake and that such an interest cannot be protected by less restrictive means. He further argues that the sentencing guidelines should allow for a reduction when a defendant accepts essential responsibility for wrongdoing, maintaining that uncertainty or partial denial about specific events should not categorically preclude a reduction in punishment.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: United States or Jordan West Noble
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: United States or Jordan West Noble.  Answer with ONLY the string United States or the string Jordan West Noble.

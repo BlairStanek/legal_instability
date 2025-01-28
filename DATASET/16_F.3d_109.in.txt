@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+According to the record, Alex Johnson was traveling as a passenger in an older model automobile along a highway in Ellis County, Michigan. The vehicle was missing a front bumper and a right front headlight. It was also recorded traveling a few miles per hour above the posted speed limit. The driver could not produce a valid driver’s license upon being stopped by law enforcement. Alex Johnson, listed as the car’s owner on the registration, also did not have a valid license at the time of the stop.
+
+ After everyone in the car failed to present valid identification, the officers decided to impound the vehicle. A search ensued, during which contraband and a firearm were discovered. Alex Johnson was ultimately arrested following these events and gave a written statement after being advised of his rights under Miranda v. Arizona.
+
+ During testimony, Officer Carter, who initiated the stop, stated that he was partially influenced by his perception of the occupants’ race and the condition of the vehicle. He indicated that factors such as three young African Americans in an older vehicle matched a pattern he had observed in prior narcotics investigations. The evidence discovered included narcotics, drug paraphernalia, and a firearm, which were then used as the basis for criminal charges.
+
+ In support of its position, the United States contends that probable cause existed to stop the vehicle based on clear traffic and equipment violations, aligning with precedent establishing that an officer’s subjective intentions do not undermine a valid stop if an objective legal infraction is observed. The United States asserts that both the automobile exception, set forth in California v. Acevedo, and the procedure for inventory searches, described in Colorado v. Bertine, justified the warrantless examination of the car. Additionally, the United States argues that the discovery of suspicious circumstances—such as narcotics on the driver and conflicting accounts of ownership—created probable cause to search the entire vehicle, reinforcing the legitimacy of the officers’ actions.
+
+ In his arguments, Alex Johnson challenges the legality of the stop and subsequent search, claiming that the use of race as a motivating factor rendered the stop pretextual and thus unconstitutional under the Fourth Amendment and Equal Protection principles. He contends that the officers exceeded the scope of a permissible inventory search, conducting what he characterizes as a “fishing expedition” aimed at uncovering illicit items rather than simply taking routine inventory. Moreover, Johnson asserts that the officers’ stated reasons for impounding the vehicle were insufficient to justify the intrusion on his rights, arguing that the search and the resulting collection of evidence violated constitutional protections and must be suppressed.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: The United States or Alex Johnson
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: The United States or Alex Johnson.  Answer with ONLY the string The United States or the string Alex Johnson.

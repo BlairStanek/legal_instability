@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+Bayou Co-op is a rural electricity provider that borrowed funds backed by a federal agency. Tanner City is a municipality that sought to acquire parts of Bayou Co-op’s service territory, equipment, and customer base. These efforts included plans for multiple phases of condemnation targeting areas where Bayou Co-op operates and has existing facilities.
+
+ In connection with these proceedings, various projections were made about the financial consequences to Bayou Co-op if Tanner City proceeded with its expropriation. Certain reports, including one from the federal agency administering the lending program, suggested that removing specific neighborhoods and customer groups from Bayou Co-op’s system would reduce overall revenue and could substantially affect Bayou Co-op’s ability to meet obligations, including repayment of its federal loans.
+
+ Tanner City contended that it was exercising a traditional local power by annexing and condemning the portions of the existing electrical grid. Bayou Co-op argued that, in doing so, Tanner City was interfering with an underlying federal policy to safeguard the security of the loans guaranteed by a federal statute. Both sides placed extensive factual material into the record, including detailed financial analyses, statements by city officials regarding potential future expansions, and expert opinions about the projected economic impact on Bayou Co-op.
+
+ Arguments favoring Bayou Co-op stress that the relevant federal statute contains language showing Congress’s intent to protect a federally guaranteed security interest in the property and service rights of cooperatives. Supporters of Bayou Co-op also cite federal cases emphasizing that any state or municipal action compromising the borrower’s assets could be at odds with national objectives, particularly if it weakens the ability of the borrower to cover its obligations. These arguments note that a federal agency’s formal assessment indicated significant revenue loss, underscoring concerns that the cooperative’s overall viability would be jeopardized if such condemnations occur.
+
+ Arguments favoring Tanner City focus on the historic authority of municipalities to condemn and regulate utility services in their jurisdictions, provided just compensation is paid. Proponents of Tanner City rely on precedent holding that federal legislation does not automatically displace local regulation unless Congress expressly intended such displacement. They also contend that the lender in question can protect itself by setting loan terms without requiring the wholesale preemption of local eminent domain powers. Finally, they suggest that allowing incremental condemnations on a compensated basis does not necessarily threaten the repayment of a federally backed loan, especially where the affected utilities can recoup their losses through standard procedures.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: Bayou Co-op or Tanner City
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: Bayou Co-op or Tanner City.  Answer with ONLY the string Bayou Co-op or the string Tanner City.

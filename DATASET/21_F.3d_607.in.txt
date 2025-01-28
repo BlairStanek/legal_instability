@@ -1,0 +1,17 @@
+You will be doing legal analysis of how you think a court should decide based on the facts below:
+
+
+Sanchez acted as defense counsel for Taylor Gray, Sr., who was facing charges of fraud and conspiracy. During trial in the district court, that court invoked summary procedures under criminal contempt rules. This arose from an assertion that Sanchez repeatedly argued with the bench, challenged court orders, and directed disrespectful comments toward the court.
+
+ In the midst of the trial, the Government presented testimony by Ray Miller, a witness whose direct examination concerned certain property transactions. During cross-examination, the district court instructed Sanchez not to exceed matters covered on direct. An objection from the Government mentioned Sanchez’s manner of questioning. Sanchez insisted the questioning stayed within proper bounds and disputed any contention that he disobeyed a court directive.
+
+ Following a recess, the court imposed a monetary fine of $200, instructing Sanchez to remit payment by a set deadline. Sanchez then declared he would not pay. The court responded by converting the penalty to a twelve-hour jail term, highlighting earlier cautionary directives against arguing with rulings. Sanchez denied having violated any commands, maintaining that his inquiries and remarks did not transgress the scope of the district court’s instructions or threaten proceedings.
+
+ In pressing for Sanchez to prevail, several legal grounds are raised. One emphasizes that contempt requires proof of willful disobedience of a clear, specific command or conduct posing an immediate threat to justice. These arguments rely on 18 U.S.C. § 401 and on decisions that clarify how summary contempt should be reserved for serious misconduct. They assert that an attorney’s duty to advocate can include challenging rulings, provided no explicit and narrowly framed order is intentionally breached. From this perspective, stating an intention not to comply with a fine—without having yet disobeyed the actual deadline—may not constitute the type of defiance that contempt law is designed to punish.
+
+ On the other hand, arguments on behalf of the Government highlight the district court’s need to maintain orderly procedures under 18 U.S.C. § 401. The Government points out that Sanchez’s statements and demeanor could be viewed as direct, willful refusals to comply with court directives. By proclaiming that he would not pay a fine issued by the court and repeatedly disputing restrictions placed on cross-examination, Sanchez arguably obstructed the court's authority in the presence of ongoing proceedings. This view contends that openly refusing to pay when so ordered, even before the set deadline, sufficiently undermines the court’s processes. Precedent addressing disruptive conduct in open court supports a finding that such defiance constitutes contempt because it disregards essential, immediate commands necessary for upholding the court’s authority.
+
+
+Based on the facts above and your knowledge of the law, think step by step to figure out which party should prevail: Sanchez or the Government
+---FOLLOW-UP QUESTION:--------------------------------
+To summarize, which of the two parties do you think should prevail: Sanchez or the Government.  Answer with ONLY the string Sanchez or the string the Government.
