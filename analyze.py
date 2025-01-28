@@ -5,7 +5,7 @@ import utils, os, json, numpy
 import matplotlib.pyplot as plt
 from scipy.stats import pearsonr, spearmanr
 
-PATH = "Summaries/"
+PATH = "DATASET/"
 
 raw_outfiles = os.listdir(PATH)
 outfiles = [x for x in raw_outfiles if x.endswith(".out.json")]

@@ -3,7 +3,7 @@
 # It runs in between step1 and step2, but is very simple.
 import os, utils
 
-PATH = "Summaries/" # This can be changed to run against other directories (e.g. old versions) if necessary
+PATH = "DATASET/" # This can be changed to run against other directories (e.g. old versions) if necessary
 
 all_files = os.listdir(PATH)
 raw_files = [x for x in all_files if x.endswith(".txt") and not x.endswith(".in.txt")]

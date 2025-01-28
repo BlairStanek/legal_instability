@@ -59,7 +59,7 @@ print("len(candidates)=", len(candidates))
 print("total_files_considered=", total_files_considered)
 
 # Now, run through and create the summaries as needed
-OUTPATH = "Summaries/"
+OUTPATH = "DATASET/"
 num_written = 0
 for candidate in candidates:
     outfile = OUTPATH+candidate[0]

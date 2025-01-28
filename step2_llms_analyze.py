@@ -17,7 +17,7 @@ print("MODEL = ", MODEL)
 
 file_percentages = []
 
-PATH = "Summaries/" # This can be changed to run against other directories (e.g. old versions) if necessary
+PATH = "DATASET/" # This can be changed to run against other directories (e.g. old versions) if necessary
 
 MIN_NUM = 20 # minimum number of runs per case+model combination
 MAX_NUM = 20 # maximum number of runs per case+model combination
